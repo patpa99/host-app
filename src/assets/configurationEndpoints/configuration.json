@@ -1,0 +1,4 @@
+{
+  "hostAppImportMapConfigApps": "http://localhost:3000/configuration/getHostAppImportMapConfigApps",
+  "hostAppConfig": "http://localhost:3000/configuration/getHostAppConfig"
+}
