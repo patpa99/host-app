@@ -2,4 +2,4 @@
 
 This is the OCC orchestrator app.
 
-For more information read my master's thesis.
+For more information read my Master's thesis.
